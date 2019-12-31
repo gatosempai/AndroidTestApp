@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Test App</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+    <string name="a_b">A + B =</string>
+    <string name="calculate">Calculate</string>
+    <string name="empty_message">Input does not have to be empty</string>
+</resources>
